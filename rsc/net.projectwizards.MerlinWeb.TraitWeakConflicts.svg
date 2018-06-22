@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-66,-40)">
+        <g id="Weak-Conflicts" serif:id="Weak Conflicts" transform="matrix(1,0,0,1,-32,0)">
+            <g transform="matrix(1,0,0,1,6,0)">
+                <path d="M101.999,56C101.436,56 100.969,55.565 100.929,55.003C100.765,52.712 100.36,47.034 100.142,43.995C100.106,43.479 100.285,42.971 100.637,42.593C100.989,42.215 101.483,42 102,42C102,42 102,42 102,42C102.517,42 103.011,42.215 103.363,42.593C103.715,42.971 103.894,43.479 103.858,43.995C103.64,47.034 103.235,52.712 103.071,55.003C103.031,55.565 102.564,56 102.001,56C102,56 102,56 101.999,56Z" style="fill:rgb(255,153,0);"/>
+            </g>
+            <g transform="matrix(1.5,0,0,1,-45,0.5)">
+                <ellipse cx="102" cy="59.5" rx="1" ry="1.5" style="fill:rgb(255,153,0);"/>
+            </g>
+        </g>
+    </g>
+</svg>
